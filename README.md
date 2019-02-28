@@ -1,4 +1,4 @@
-# Flask-test      [![Build Status](https://travis-ci.org/oscarpson/Flask-unittest.svg?branch=develop)](https://travis-ci.org/oscarpson/Flask-unittest)
+# Flask-test     [![Build Status](https://travis-ci.org/oscarpson/Flask-unittest.svg?branch=develop)](https://travis-ci.org/oscarpson/Flask-unittest)
 Just flask pytest 
 
 # Usage

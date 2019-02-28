@@ -1,4 +1,4 @@
-# Flask-test     [![Build Status](https://travis-ci.org/oscarpson/Flask-unittest.svg?branch=develop)](https://travis-ci.org/oscarpson/Flask-unittest) [![Coverage Status](https://coveralls.io/repos/github/oscarpson/Flask-unittest/badge.svg?branch=develop)](https://coveralls.io/github/oscarpson/Flask-unittest?branch=develop) [![Maintainability](https://api.codeclimate.com/v1/badges/2762e9d89010fe75796d/maintainability)](https://codeclimate.com/github/oscarpson/Flask-unittest/maintainability)
+# Flask-test     [![Build Status](https://travis-ci.org/oscarpson/Flask-unittest.svg?branch=develop)](https://travis-ci.org/oscarpson/Flask-unittest) [![Coverage Status](https://coveralls.io/repos/github/oscarpson/Flask-unittest/badge.svg)](https://coveralls.io/github/oscarpson/Flask-unittest) [![Maintainability](https://api.codeclimate.com/v1/badges/2762e9d89010fe75796d/maintainability)](https://codeclimate.com/github/oscarpson/Flask-unittest/maintainability)
 Just flask pytest 
 
 # Usage
